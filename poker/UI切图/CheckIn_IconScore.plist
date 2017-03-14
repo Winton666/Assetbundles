@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconScore/CheckIn_Score1_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{389,102},{91,82}}</string>
+				<key>offset</key>
+				<string>{-11,18}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconScore/CheckIn_Score1_L.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{229,109},{91,82}}</string>
+				<key>offset</key>
+				<string>{-11,18}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconScore/CheckIn_Score2_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{497,0},{107,94}}</string>
+				<key>offset</key>
+				<string>{0,12}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconScore/CheckIn_Score2_L.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{497,94},{107,94}}</string>
+				<key>offset</key>
+				<string>{0,12}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconScore/CheckIn_Score3_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{268,0},{121,109}}</string>
+				<key>offset</key>
+				<string>{-5,13}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconScore/CheckIn_Score3_L.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,108},{121,109}}</string>
+				<key>offset</key>
+				<string>{-5,13}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconScore/CheckIn_Score4_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{121,108},{102,108}}</string>
+				<key>offset</key>
+				<string>{0,9}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconScore/CheckIn_Score4_L.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{389,0},{102,108}}</string>
+				<key>offset</key>
+				<string>{0,9}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconScore/CheckIn_Score5_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{134,108}}</string>
+				<key>offset</key>
+				<string>{0,9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconScore/CheckIn_Score5_L.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{134,0},{134,108}}</string>
+				<key>offset</key>
+				<string>{0,9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>CheckIn_IconScore.png</string>
+			<key>realTextureFileName</key>
+			<string>CheckIn_IconScore.png</string>
+			<key>size</key>
+			<string>{604,217}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>604</integer>
+			<key>height</key>
+			<integer>217</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,11 @@
+info face="»ª¿µ·½Ô²ÌåW7(P)" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=3,3,3,3 spacing=0,0
+common lineHeight=39 base=28 scaleW=256 scaleH=64 pages=1 packed=0
+page id=0 file="loading_number.png"
+chars count=6
+char id=32   x=0     y=0     width=0     height=0     xoffset=0     yoffset=28    xadvance=17     page=0  chnl=0 
+char id=36733   x=0     y=0     width=37     height=37     xoffset=-2     yoffset=-1    xadvance=38     page=0  chnl=0 
+char id=20013   x=37     y=0     width=35     height=36     xoffset=-1     yoffset=-1    xadvance=38     page=0  chnl=0 
+char id=21152   x=72     y=0     width=35     height=36     xoffset=-1     yoffset=-1    xadvance=38     page=0  chnl=0 
+char id=29378   x=107     y=0     width=37     height=36     xoffset=-2     yoffset=-1    xadvance=38     page=0  chnl=0 
+char id=30127   x=144     y=0     width=37     height=36     xoffset=-2     yoffset=-1    xadvance=38     page=0  chnl=0 
+char id=46   x=181     y=0     width=14     height=14     xoffset=-2     yoffset=19    xadvance=14     page=0  chnl=0 

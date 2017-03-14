@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/Help_Img/Btn_Clear.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{149,50},{44,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{44,41}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Help_Img/Hall_Box_ChatPapo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{260,0},{81,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{81,62}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Help_Img/Hall_Box_ChatPapoArrow_L.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{193,50},{23,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{23,14}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Help_Img/Hall_Box_ChatPapoArrow_R.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{216,50},{23,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{23,14}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Help_Img/Hall_Btn_Send.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{149,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{149,69}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Help_Img/g_help_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{149,0},{111,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{111,50}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Help_Img.png</string>
+			<key>realTextureFileName</key>
+			<string>Help_Img.png</string>
+			<key>size</key>
+			<string>{341,91}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>341</integer>
+			<key>height</key>
+			<integer>91</integer>
+		</dict>
+	</dict>
+</plist>

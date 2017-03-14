@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/GameContents/Hall_LogoMain.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,896},{410,95}}</string>
+				<key>offset</key>
+				<string>{1,7}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{442,109}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/GameContents/Hall_RoomBG1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{363,403}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{363,403}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/GameContents/Hall_RoomBG2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,406},{244,242}}</string>
+				<key>offset</key>
+				<string>{1,46}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{301,378}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/GameContents/Hall_RoomBG3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,652},{242,241}}</string>
+				<key>offset</key>
+				<string>{1,47}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{301,378}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/GameContents/Hall_RoomName1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{454,878},{112,39}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{238,73}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/GameContents/Hall_RoomName2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{244,837},{114,39}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{238,73}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/GameContents/Hall_RoomName3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{360,837},{113,39}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{238,73}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/GameContents/Hall_RoomName4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{413,878},{113,39}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{238,73}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/GameContents/Icon_Game.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,406},{150,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,150}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/GameContents/QRCode.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{244,652},{183,183}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{183,183}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>GameContents.png</string>
+			<key>realTextureFileName</key>
+			<string>GameContents.png</string>
+			<key>size</key>
+			<string>{494,992}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>494</integer>
+			<key>height</key>
+			<integer>992</integer>
+		</dict>
+	</dict>
+</plist>

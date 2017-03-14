@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/CommonBtn/Hall_CommonBtn_Aquamarine.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{219,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{219,79}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CommonBtn/Hall_CommonBtn_Aquamarine_S.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,79},{177,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{177,66}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CommonBtn/Hall_CommonBtn_Blue.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{219,0},{219,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{219,79}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CommonBtn/Hall_CommonBtn_Blue_S.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{177,79},{177,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{177,66}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CommonBtn/Hall_CommonBtn_Green.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{438,0},{219,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{219,79}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CommonBtn/Hall_CommonBtn_Green_S.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{354,79},{177,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{177,66}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CommonBtn/Hall_CommonBtn_Purple.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{657,0},{219,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{219,79}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CommonBtn/Hall_CommonBtn_Purple_S.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{531,79},{177,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{177,66}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CommonBtn/Hall_CommonBtn_Red.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{876,0},{219,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{219,79}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CommonBtn/Hall_CommonBtn_Red_S.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{708,79},{177,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{177,66}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>CommonBtn.png</string>
+			<key>realTextureFileName</key>
+			<string>CommonBtn.png</string>
+			<key>size</key>
+			<string>{1095,145}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1095</integer>
+			<key>height</key>
+			<integer>145</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/Task_Img/Hall_Task_BG1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{360,128},{91,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Task_Img/Hall_Task_BG2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{189,183},{88,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{88,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Task_Img/Hall_Task_Btn_Geted.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{768,0},{190,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,78}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Task_Img/Hall_Task_Btn_GetReward.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{958,0},{167,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{167,66}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Task_Img/Hall_Task_Btn_Gototask.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{768,78},{189,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{189,78}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Task_Img/Hall_Task_Btn_Invite.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,128},{189,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{189,78}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Task_Img/Hall_Task_Icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{277,183},{62,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{62,74}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Task_Img/Hall_Task_Img_ProgressBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,206},{198,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{198,21}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Task_Img/Hall_Task_Title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{189,128},{171,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{171,55}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Task_Img/Hall_Task_TitleBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{768,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{768,128}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Task_Img.png</string>
+			<key>realTextureFileName</key>
+			<string>Task_Img.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

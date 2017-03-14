@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/RoleIcon/Role_BoyBody.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,544},{222,486}}</string>
+				<key>offset</key>
+				<string>{-56,-27}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{343,540}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RoleIcon/Role_GirlBody.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{343,538}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{343,540}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RoleIcon/RoleIcon_boy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,770},{187,227}}</string>
+				<key>offset</key>
+				<string>{44,-17}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{277,279}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RoleIcon/RoleIcon_default.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{193,770},{102,144}}</string>
+				<key>offset</key>
+				<string>{1,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{156,155}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RoleIcon/RoleIcon_Girl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{349,2},{277,279}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{277,279}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RoleIcon/text_login_animation.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{299,770},{50,52}}</string>
+				<key>offset</key>
+				<string>{3,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{85,84}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RoleIcon/Help_RoleIcon_earphone.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,1001},{37,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{37,21}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RoleIcon/Help_RoleIcon_Player.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{193,918},{97,97}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{97,97}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RoleIcon/Help_RoleIcon_Service.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{294,918},{97,97}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{97,97}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>RoleIcon.png</string>
+			<key>realTextureFileName</key>
+			<string>RoleIcon.png</string>
+			<key>size</key>
+			<string>{628,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>628</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

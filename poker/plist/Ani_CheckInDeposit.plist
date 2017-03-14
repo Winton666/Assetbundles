@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_CheckInDeposit/Ani_CheckinBox1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{275,270},{269,206}}</string>
+				<key>offset</key>
+				<string>{-28,-25}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{397,324}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_CheckInDeposit/Ani_CheckinBox2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,270},{275,251}}</string>
+				<key>offset</key>
+				<string>{-25,-9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{397,324}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_CheckInDeposit/Ani_CheckinBox3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{333,270}}</string>
+				<key>offset</key>
+				<string>{4,-3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{397,324}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_CheckInDeposit/Ani_CheckinBox4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{333,0},{333,270}}</string>
+				<key>offset</key>
+				<string>{4,-3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{397,324}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_CheckInDeposit/Ani_CheckinLight.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{666,0},{293,293}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{293,293}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_CheckInDeposit/Ani_CheckinStar.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{959,0},{30,41}}</string>
+				<key>offset</key>
+				<string>{-2,2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{35,44}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Ani_CheckInDeposit.png</string>
+			<key>realTextureFileName</key>
+			<string>Ani_CheckInDeposit.png</string>
+			<key>size</key>
+			<string>{1000,521}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1000</integer>
+			<key>height</key>
+			<integer>521</integer>
+		</dict>
+	</dict>
+</plist>

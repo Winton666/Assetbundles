@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/CheckIn_Deposit1_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{236,108},{88,65}}</string>
+				<key>offset</key>
+				<string>{0,17}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/CheckIn_Deposit1_L.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{236,173},{88,65}}</string>
+				<key>offset</key>
+				<string>{0,17}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/CheckIn_Deposit2_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{478,0},{117,103}}</string>
+				<key>offset</key>
+				<string>{2,9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/CheckIn_Deposit2_L.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{360,103},{117,103}}</string>
+				<key>offset</key>
+				<string>{2,9}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/CheckIn_Deposit3_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{118,107},{103,118}}</string>
+				<key>offset</key>
+				<string>{-2,17}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/CheckIn_Deposit3_L.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{360,0},{103,118}}</string>
+				<key>offset</key>
+				<string>{-2,17}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/CheckIn_Deposit4_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{121,107}}</string>
+				<key>offset</key>
+				<string>{1,13}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/CheckIn_Deposit4_L.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{121,0},{121,107}}</string>
+				<key>offset</key>
+				<string>{1,13}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/CheckIn_Deposit5_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{242,0},{108,118}}</string>
+				<key>offset</key>
+				<string>{3,13}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/CheckIn_Deposit5_L.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,107},{108,118}}</string>
+				<key>offset</key>
+				<string>{3,13}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{172,209}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>CheckIn_IconDeposit.png</string>
+			<key>realTextureFileName</key>
+			<string>CheckIn_IconDeposit.png</string>
+			<key>size</key>
+			<string>{595,238}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>595</integer>
+			<key>height</key>
+			<integer>238</integer>
+		</dict>
+	</dict>
+</plist>
